@@ -1,0 +1,11 @@
+Model Information:
+* title:	Pixel Art (Mario)
+* source:	https://sketchfab.com/3d-models/pixel-art-mario-7a27cbf9e7594ee7966d64593592d28b
+* author:	Alex_F (https://sketchfab.com/Alex_F)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Pixel Art (Mario)" (https://sketchfab.com/3d-models/pixel-art-mario-7a27cbf9e7594ee7966d64593592d28b) by Alex_F (https://sketchfab.com/Alex_F) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
