@@ -77,7 +77,7 @@ CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
       // Having a really simple drop shadow underneath an object helps ground
       // it in the world without adding much complexity.
       let shadow = new DropShadowNode();
-      vec3.set(shadow.scale, 4.3, 3.9, 3.7);
+      vec3.set(shadow.scale, 0.15, 0.15, 0.15);
       arObject.addNode(shadow);
 
       const MAX_FLOWERS = 1;
@@ -163,12 +163,8 @@ CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
        
         newFlower.visible = true;
         newFlower.matrix = matrix;
-
-        title.visible = true;
-        title.matrix = matrix;
         
         scene.addNode(newFlower);
-        scene.addNode(title);
         
         flowers.push(newFlower);
 
